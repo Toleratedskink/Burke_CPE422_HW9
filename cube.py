@@ -1,4 +1,4 @@
-# Problem 3 of Homework 8
+# Problem 3 of Homework 9
 
 def cb(x):
   cube = x**3
