@@ -1,4 +1,4 @@
-# Problem 2 of homework 8
+# Problem 2 of homework 9
 
 def sq(x):
   square = x**2
